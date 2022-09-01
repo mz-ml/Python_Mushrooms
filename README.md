@@ -1,8 +1,8 @@
-## Seoul Bike Rental in 2019
+## Classification of Edible and Poisonous Mushrooms
 
 #### Project Goal 
 
-- To predict the number of bikes that will be rented on any given day using Linear Regression and Time Series Analysis.
+- To distinguish edible mushrooms from poisonous ones based on images
 
 #### Outline
 
