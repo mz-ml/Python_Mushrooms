@@ -2,7 +2,7 @@
 
 #### Project Goal 
 
-- To distinguish edible mushrooms from poisonous ones based on images
+- To distinguish edible mushrooms from poisonous ones based on images using different models
 
 #### Outline
 
