@@ -1,8 +1,8 @@
 ## Classification of Edible and Poisonous Mushrooms
 
-#### Project Goal 
+#### Project Goals 
 
-- To distinguish edible mushrooms from poisonous ones based on images using different models
+- To distinguish edible mushrooms from poisonous ones based on images using different methods
 
 #### Outline
 
@@ -22,3 +22,4 @@
 #### PDF Preview
 
 https://github.com/mingzhao1103/Python_Mushrooms/blob/main/report.pdf
+
