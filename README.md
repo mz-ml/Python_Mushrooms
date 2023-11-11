@@ -1,8 +1,8 @@
 ## Classification of Edible and Poisonous Mushrooms
 
-#### Project Goals 
+#### Project Statement 
 
-- To distinguish edible mushrooms from poisonous ones based on images using different methods
+- In this project, we predicted mushroom toxicity by building machine learning and deep learning models with data augmentation and transfer learning on 2720 training images. We evaluated model performance on 681 test images using precision-recall curves and achieved 95% recall by trading off precision through changing the decision threshold.
 
 #### Outline
 
