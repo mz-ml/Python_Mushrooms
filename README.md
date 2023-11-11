@@ -18,8 +18,3 @@
   - Testing Models
 - Visualization
 - Discussion and Conclusion  
-
-#### PDF Preview
-
-https://github.com/mingzhao1103/Python_Mushrooms/blob/main/report.pdf
-
